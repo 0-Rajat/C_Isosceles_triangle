@@ -1,0 +1,1 @@
+here i have asked the user about the row of triangle they need. Based on these i have taken outer loop for deciding no of rows and 3 inner loop one for * while other 2 blank spaces one ahead and one after the . For each row there is total no of row - no of that row on both side of the star and for star we will take from 0 to 2no of that row+1. You will get. Dhanywad

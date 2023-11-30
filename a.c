@@ -7,16 +7,18 @@ int main(){
     for(int i=0;i<a;i++){
         for(int j=0;j<a-i;j++){
           
-        printf(" ");
+        printf(" ");      /* for the space before of star */
      }
      for(int j=0;j<2*i+1;j++){
-        printf("*");
+      
+         printf("*"); /* for the space no of star */
      }
       for(int j=0;j<a-i;j++){
           
-        printf(" ");
+        printf(" "); /* for the space after of star */
      }
-         printf("\n");
+        
+        printf("\n"); /* to go to next line */
     }
 
     
